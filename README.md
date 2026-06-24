@@ -1,48 +1,50 @@
-## О прототипе
+# Qushaq Technovation Prototype
 
-Прототип демонстрирует основной пользовательский сценарий и ключевые элементы интерфейса Qushaq, связанные с поддержкой, безопасностью и экстренными ситуациями.
+## About the Prototype
 
-Проект имеет статус учебного MVP и создавался для демонстрации идеи в рамках конкурса Technovation Girls 2026.
+This prototype demonstrates the main user flow and key interface elements of Qushaq related to support, safety, and emergency situations.
 
-## Мой вклад
+It was created as an educational MVP to present the project concept during Technovation Girls 2026.
 
-Мой вклад включал:
+## My Contribution
 
-* разработку frontend-прототипа на HTML, CSS и JavaScript;
-* работу над структурой интерфейса и пользовательскими сценариями;
-* реализацию кризисной кнопки;
-* добавление инструкции с действиями в экстренной ситуации;
-* доработку интерфейса AI-чата и устранение технических ошибок;
-* добавление элементов интерфейса, связанных с сообществом и поддержкой;
-* перевод материалов прототипа на английский язык;
-* подготовку и загрузку технических файлов к дедлайну Technovation.
+My contribution included:
 
-При разработке некоторых частей прототипа использовались AI-инструменты. Моя работа включала настройку, интеграцию, ручное редактирование кода, исправление ошибок и адаптацию интерфейса под требования проекта.
+* developing the frontend prototype using HTML, CSS, and JavaScript;
+* working on the interface structure and user flows;
+* implementing the crisis button;
+* adding emergency action instructions;
+* improving the AI chat interface and fixing technical issues;
+* adding interface elements related to community and support;
+* translating prototype materials into English;
+* preparing and uploading technical files before the Technovation deadline.
 
-## Контекст
+AI tools were used during the development of some parts of the prototype. My work included setup, integration, manual code editing, debugging, and adapting the interface to the project requirements.
 
-Qushaq создавался как командный проект для Technovation Girls.
+## Context
 
-Этот репозиторий предназначен для документирования моего личного вклада в разработку frontend-части и UX прототипа на этапе конкурса.
+Qushaq was developed as a team project for Technovation Girls.
 
-Репозиторий:
+This repository documents my personal contribution to the frontend and UX development of the prototype during the competition stage.
 
-* не является текущей официальной версией Qushaq;
-* не представляет весь проект целиком;
-* не заявляет право собственности на бренд, бизнес-модель или материалы, созданные другими участниками команды.
+This repository:
 
-## Технологии
+* is not the current official version of Qushaq;
+* does not represent the entire project;
+* does not claim ownership of the Qushaq brand, business model, or materials created by other team members.
+
+## Technologies
 
 * HTML
 * CSS
 * JavaScript
 
-## Статус
+## Status
 
-Архивный учебный прототип / MVP, созданный для Technovation Girls 2026.
+Archived educational prototype / MVP created for Technovation Girls 2026.
 
-Публичная версия AI-чата может быть недоступна, поскольку API-ключи намеренно не включены в репозиторий из соображений безопасности.
+The AI chat may not work in the public version because API keys are intentionally excluded from the repository for security reasons.
 
-## Живая демонстрация
+## Live Demo
 
-[Открыть прототип](https://asya-v.github.io/qushaq-technovation-prototype./)
+[Open the prototype](https://asya-v.github.io/qushaq-technovation-prototype/)
